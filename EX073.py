@@ -1,0 +1,5 @@
+numeros = ('zero','um','dois','tres','quatro','cinco','seis','sete','oito','nove','dez','onze','doze','treze','quatorze','quinze','dezesseis','dezessete','dezoito','dezenove','vinte')
+print(numeros[:5])
+print(numeros[17:])
+print(sorted(numeros))
+print(1+numeros.index('dois'))
